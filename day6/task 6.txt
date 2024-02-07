@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+
+public class Employee
+{
+    public string Name { get; set; }
+    public float Salary { get; set; }
+
+    public void IncreaseSalary(float amount)
+    {
+        Salary += amount;
+    }
+}
+
+public class Company
+{
+    public string Name { get; set; }
+    public float Budget { get; set; }
+    public List<Employee> Employees { get; set; }
+
+    public Company()
+    
+    {
+        Employees = new List<Employee>();
+    }
+
+    public void IncreaseSalary(float amount, Employee employee)
+    {
+        employee.IncreaseSalary(amount);
+        Budget -= amount;
+    }
+
+    public List<Employee> FilterEmployees(Func<Employee, bool> filter)
+    {
+        List<Employee> filteredEmployees = new List<Employee>();
+
+        foreach (Employee employee in Employees)
+        {
+            if (filter(employee))
+            {
+                filteredEmployees.Add(employee);
+            }
+        }
+
+        return filteredEmployees;
+    }
+}

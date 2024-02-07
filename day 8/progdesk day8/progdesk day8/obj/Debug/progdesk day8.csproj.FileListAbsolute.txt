@@ -1,0 +1,11 @@
+D:\c sharp prog\progdesk day8\progdesk day8\bin\Debug\progdesk day8.exe.config
+D:\c sharp prog\progdesk day8\progdesk day8\bin\Debug\progdesk day8.exe
+D:\c sharp prog\progdesk day8\progdesk day8\bin\Debug\progdesk day8.pdb
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk day8.csproj.AssemblyReference.cache
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk day8.csproj.SuggestedBindingRedirects.cache
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk_day8.Form1.resources
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk_day8.Properties.Resources.resources
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk day8.csproj.GenerateResource.cache
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk day8.csproj.CoreCompileInputs.cache
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk day8.exe
+D:\c sharp prog\progdesk day8\progdesk day8\obj\Debug\progdesk day8.pdb

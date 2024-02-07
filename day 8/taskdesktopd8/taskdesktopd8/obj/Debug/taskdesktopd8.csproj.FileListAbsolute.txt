@@ -1,0 +1,11 @@
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\bin\Debug\taskdesktopd8.exe.config
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\bin\Debug\taskdesktopd8.exe
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\bin\Debug\taskdesktopd8.pdb
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.csproj.AssemblyReference.cache
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.csproj.SuggestedBindingRedirects.cache
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.Form1.resources
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.Properties.Resources.resources
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.csproj.GenerateResource.cache
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.csproj.CoreCompileInputs.cache
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.exe
+D:\c sharp prog\taskdesktopd8\taskdesktopd8\obj\Debug\taskdesktopd8.pdb
